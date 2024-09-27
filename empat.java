@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Eiga {
+class Empat {
   public static void main(String[] args) {
     // Variable
     int fahrenheit;
